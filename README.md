@@ -35,3 +35,7 @@ pip install google-genai gradio python-dotenv requests
 # Run the application
 python chatbot_for_mobileshope.py
 ```
+
+## DEMO
+
+![Chat Example](./output.png "Noob Mobile Store Chatbot in action")
